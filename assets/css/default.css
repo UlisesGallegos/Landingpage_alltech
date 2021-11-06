@@ -933,6 +933,7 @@
 }
 
 .whatsapp {
+	margin-left: 24px;
     position:fixed;
     width:60px;
     height:60px;
@@ -952,7 +953,7 @@
 }
 
 .whatsapp >a:hover{
-    color: #fff !important;
+    color: rgb(24, 185, 77) !important;
 }
 
 .lightbox-gallery {
